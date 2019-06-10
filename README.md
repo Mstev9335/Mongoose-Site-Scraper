@@ -13,4 +13,4 @@ This application scrapes news stories form a website and stores those stories wi
 * Mongoose npm package
 * Cheerio npm package
 
-### Deployed on Heroku: [Mongoose-Site-Scraper]
+### Deployed on Heroku: [Mongoose-Site-Scraper](https://placeholder-link/)
