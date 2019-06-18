@@ -5,13 +5,11 @@ html {
 
 body {
   margin-bottom: 80px;
-  background-image: url("../images/paper.png");
 }
 
 .card a:not([href]):not([tabindex]).scrape-new {
   color: #2196F3;
 }
-
 
 .navbar {
   margin-bottom: 0;

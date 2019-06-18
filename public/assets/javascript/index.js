@@ -27,8 +27,7 @@ $(document).ready(function() {
     // This function handles appending HTML containing our article data to the page
     // We are passed an array of JSON containing all available articles in our database
     var articleCards = [];
-    // We pass each article JSON object to the createCard function which returns a bootstrap
-    // card with our article data inside
+ 
     for (var i = 0; i < articles.length; i++) {
       articleCards.push(createCard(articles[i]));
     }
