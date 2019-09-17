@@ -13,4 +13,13 @@ This application scrapes articles form a website and stores those articles withi
 * Mongoose npm package
 * Cheerio npm package
 
+### App starts
+![start](/assets/images/scrape1.png)
+
+### After the scrape
+![scrape](/assets/images/scrape2.png)
+
+### Viewing the saved articles
+![saved](/assets/images/scrape3.png)
+
 ### Deployed on Heroku: [Mongoose-Site-Scraper](https://immense-bastion-55834.herokuapp.com/)
